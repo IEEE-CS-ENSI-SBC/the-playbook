@@ -11,7 +11,11 @@ security, and related tooling.
 
 - [Git](git/README.md) — version control fundamentals and workflows
 - [Docker](docker/README.md) — containers and container-based deployment
-
-## Resources
-
-- **[ShellCheck](https://www.shellcheck.net/)** — static analysis tool that catches bugs and unsafe patterns (quoting, injection-prone constructs) in shell scripts before they hit a pipeline.
+- [Kubernetes](kubernetes/README.md) — container orchestration
+- [Terraform](terraform/README.md) — infrastructure as code
+- [Monitoring](monitoring/README.md) — observability and metrics
+- [CI/CD](ci-cd/README.md) — continuous integration and deployment pipelines
+- [Ansible](ansible/README.md) — configuration management and automation
+- [Reading](reading/README.md) — foundational books and methodology
+- [Secure Coding](secure-coding/README.md) — writing and checking code for security
+- [Practice & Curricula](practice/README.md) — broad curricula, exercise banks, sandboxes, channels

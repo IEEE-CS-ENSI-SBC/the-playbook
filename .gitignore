@@ -1,0 +1,14 @@
+# AI assistant / conversation artifacts — never committed to this repo
+.claude/
+.claude-*
+CLAUDE.local.md
+.cursor/
+.copilot/
+.aider*
+*.chat.md
+.ai/
+.superpowers/
+
+# OS/editor cruft
+.DS_Store
+*.swp
