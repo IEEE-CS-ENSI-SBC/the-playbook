@@ -11,3 +11,5 @@ computers actually work, distinct from the theory in `computer-science`.
 - **[Practical Networking](https://www.practicalnetworking.net/)** — well-regarded resource teaching networking fundamentals (TCP/IP, subnetting, routing) in an applied way.
 - **[Beej's Guides](https://beej.us/guide/)** — classic, beloved free guides on systems-level programming (network programming, C, Unix IPC).
 - **[Build Your Own X](https://github.com/codecrafters-io/build-your-own-x)** — curated tutorials for reimplementing real systems tools from scratch (your own Docker, Git, database, shell, HTTP server) to learn how they actually work.
+
+_More resources coming soon._

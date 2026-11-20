@@ -18,3 +18,5 @@ not systems/networking internals (that's `systems`), not CS theory
 - **[roadmap.sh: Projects](https://roadmap.sh/projects)** — practical, build-it-yourself application project ideas across backend, frontend, and more.
 - **[Fireship](https://www.youtube.com/@Fireship)** — hugely popular, fast-paced channel covering web/app dev, modern tooling, and quick tech explainers.
 - **[Tech With Tim](https://www.youtube.com/@TechWithTim)** — popular channel teaching Python and general programming by building real projects and apps.
+
+_More resources coming soon._
