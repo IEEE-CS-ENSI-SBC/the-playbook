@@ -8,6 +8,11 @@ CLAUDE.local.md
 *.chat.md
 .ai/
 .superpowers/
+docs/
+
+# Maintainer-only process files — visitors should only see the resources
+CONTRIBUTING.md
+REVIEW_LOG.md
 
 # OS/editor cruft
 .DS_Store
